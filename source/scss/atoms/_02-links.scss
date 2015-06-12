@@ -13,6 +13,7 @@ a {
   &:hover, 
   &:focus,
   &:visited:hover { 
+    text-decoration: none;
     color : $vader; 
   }
 
@@ -26,9 +27,6 @@ a {
 
 
 // Colour variants.
-
-// is this something we actually want?
-
 // $colours map is defined in _01-colours.scss
 @each $name in $color-names {
 

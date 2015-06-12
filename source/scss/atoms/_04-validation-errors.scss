@@ -7,7 +7,7 @@
   padding: 1em;
   margin-bottom: 1em;
 
-  h6 {
+  p strong {
     color: $ken;
   }
 
@@ -26,6 +26,7 @@
   &:focus {
     box-shadow: inset 0px 0px 0px 1px $ken !important;
   }  
+
 }
 
 

@@ -1,10 +1,12 @@
 // Icon buttons
 
+button,
 .button {
   // Icons within a button. Icons *always* sit on the left of the text.
   i {
     padding: 0 0.25em 0 0;
   }
+
 }
 
 .button--block-icon {

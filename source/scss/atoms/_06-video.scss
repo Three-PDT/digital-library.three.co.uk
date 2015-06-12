@@ -1,6 +1,8 @@
 // Video.
 // Assumes 16:9 ratio for media embed. Might need upgrading to FitVids.js?
 .video-container {
+  @extend %clooney-bg20;
+
   position: relative;
   padding-bottom: 56.25%; /* 16/9 ratio */
   height: 0;
