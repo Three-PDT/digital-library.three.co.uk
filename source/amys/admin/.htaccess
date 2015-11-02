@@ -1,5 +1,0 @@
-AuthType Basic
-AuthName "Admin"
-# AuthUserFile /homepages/9/d202217650/htdocs/three/culture/amys/admin/.htpasswd
-AuthUserFile /Users/lucpestille/Sites/three-digital.co.uk/amys/admin/.htpasswd
-Require valid-user
